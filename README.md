@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [here](here)
 
+- 🔬 Interested in research? Check out my paper published at [IEEE](https://ieeexplore.ieee.org/document/10426324)
+
 - ⚡ Fun fact: **As a tech-savvy individual, I see artificial intelligence as an ally and a resource for collaboration, not a rival**
 
 <h3 align="left">Connect with me:</h3>
