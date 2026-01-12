@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-saw&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-saw" /> </p>
 
-- 🌱 I’m currently learning **React, Nodejs and Javascript**
+- 🌱 I’m currently learning **React, Next.js, Javascript and TypeScript**
 
 - 👨‍💻 All of my projects are available at [here](here)
 
