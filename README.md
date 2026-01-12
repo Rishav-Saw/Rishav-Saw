@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rishavsaw2002@gmail.com**
 
-- 📄 Know about my experiences [here](here)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/rishav-saw/)
 
 - 🔬 Interested in research? Check out my paper published at IEEE ICIMIA 2023 [here](https://ieeexplore.ieee.org/document/10426324)
 
