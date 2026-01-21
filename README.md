@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, Javascript and TypeScript**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Rishav-Saw?tab=repositories)
 
 - 💬 Ask me anything, I will be more than happy to help :D
 
