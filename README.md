@@ -23,7 +23,7 @@
 - ⚡ Fun fact: **As a tech-savvy individual, I see artificial intelligence as an ally and a resource for collaboration, not a rival**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/rishav-saw" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-saw" height="30" width="40" /> </a>
   <a href="https://www.leetcode.com/rishav_saw" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishav_saw" height="30" width="40" /> </a>
   <a href="https://www.hackerrank.com/rishavsaw2002" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishavsaw2002" height="30" width="40" /> </a>
